@@ -1,7 +1,7 @@
 # HELLO-WORLD
-A new one
-I like Cricket and football
-Football is the most popular game on earth
-cricket is an interesting sport
-
+A new one 
+I am Akash Narasimhan 
+I am from chennai 
+I like Cricket and Football 
+I like to learn about coding
 
